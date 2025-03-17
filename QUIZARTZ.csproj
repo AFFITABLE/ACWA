@@ -1,0 +1,74 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\animate.css" />
+    <None Include="wwwroot\assets\css\bootstrap.min.css" />
+    <None Include="wwwroot\assets\css\font-awesome.min.css" />
+    <None Include="wwwroot\assets\css\style.css" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\assets\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\assets\img\add.png" />
+    <None Include="wwwroot\assets\img\blue-host.jpg" />
+    <None Include="wwwroot\assets\img\coming-soon.jpg" />
+    <None Include="wwwroot\assets\img\commenter1.jpg" />
+    <None Include="wwwroot\assets\img\commenter2.jpg" />
+    <None Include="wwwroot\assets\img\corporate.jpg" />
+    <None Include="wwwroot\assets\img\design-inspiration-bg.jpg" />
+    <None Include="wwwroot\assets\img\design-inspiration1.jpg" />
+    <None Include="wwwroot\assets\img\design-inspiration2.jpg" />
+    <None Include="wwwroot\assets\img\design-inspiration3.jpg" />
+    <None Include="wwwroot\assets\img\design-inspiration4.jpg" />
+    <None Include="wwwroot\assets\img\design-inspiration5.jpg" />
+    <None Include="wwwroot\assets\img\design-inspiration6.jpg" />
+    <None Include="wwwroot\assets\img\design-inspiration7.jpg" />
+    <None Include="wwwroot\assets\img\event.jpg" />
+    <None Include="wwwroot\assets\img\logo.png" />
+    <None Include="wwwroot\assets\img\media-temple.jpg" />
+    <None Include="wwwroot\assets\img\photography.jpg" />
+    <None Include="wwwroot\assets\img\resource-bg.jpg" />
+    <None Include="wwwroot\assets\img\resources-bg.jpg" />
+    <None Include="wwwroot\assets\img\restaurant.jpg" />
+    <None Include="wwwroot\assets\img\showcase1.jpg" />
+    <None Include="wwwroot\assets\img\showcase2.jpg" />
+    <None Include="wwwroot\assets\img\showcase3.jpg" />
+    <None Include="wwwroot\assets\img\showcase4.jpg" />
+    <None Include="wwwroot\assets\img\showcase5.jpg" />
+    <None Include="wwwroot\assets\img\showcase6.jpg" />
+    <None Include="wwwroot\assets\img\showcase7.jpg" />
+    <None Include="wwwroot\assets\img\showcase8.jpg" />
+    <None Include="wwwroot\assets\img\squarespace.jpg" />
+    <None Include="wwwroot\assets\img\store.png" />
+    <None Include="wwwroot\assets\img\store1.png" />
+    <None Include="wwwroot\assets\img\wordpress-hosting.jpg" />
+    <None Include="wwwroot\assets\img\wp-engine.jpg" />
+    <None Include="wwwroot\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets\js\jquery-2.1.3.min.js" />
+    <None Include="wwwroot\assets\js\jQuery.scrollSpeed.js" />
+    <None Include="wwwroot\assets\js\wow.min.js" />
+    <None Include="wwwroot\assets\nivo-lightbox\close%402x.png" />
+    <None Include="wwwroot\assets\nivo-lightbox\close.png" />
+    <None Include="wwwroot\assets\nivo-lightbox\next%402x.png" />
+    <None Include="wwwroot\assets\nivo-lightbox\next.png" />
+    <None Include="wwwroot\assets\nivo-lightbox\nivo-lightbox-theme.css" />
+    <None Include="wwwroot\assets\nivo-lightbox\nivo-lightbox.css" />
+    <None Include="wwwroot\assets\nivo-lightbox\nivo-lightbox.min.js" />
+    <None Include="wwwroot\assets\nivo-lightbox\prev%402x.png" />
+    <None Include="wwwroot\assets\nivo-lightbox\prev.png" />
+    <None Include="wwwroot\assets\nivo-lightbox\Wings.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
+</Project>

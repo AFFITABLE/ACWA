@@ -1,0 +1,68 @@
+﻿@model QUIZARTZ.Models.Testquiz
+
+@{
+    ViewData["Title"] = "Test";
+}
+
+<h1>Test</h1>
+
+<h4>Testquiz</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Test">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="QuestionId" class="control-label"></label>
+                <input asp-for="QuestionId" class="form-control" />
+                <span asp-validation-for="QuestionId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="question" class="control-label"></label>
+                <input asp-for="question" class="form-control" />
+                <span asp-validation-for="question" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="answer1" class="control-label"></label>
+                <input asp-for="answer1" class="form-control" />
+                <span asp-validation-for="answer1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="answer2" class="control-label"></label>
+                <input asp-for="answer2" class="form-control" />
+                <span asp-validation-for="answer2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="answer3" class="control-label"></label>
+                <input asp-for="answer3" class="form-control" />
+                <span asp-validation-for="answer3" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="answer4" class="control-label"></label>
+                <input asp-for="answer4" class="form-control" />
+                <span asp-validation-for="answer4" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="rightans" class="control-label"></label>
+                <input asp-for="rightans" class="form-control" />
+                <span asp-validation-for="rightans" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="score" class="control-label"></label>
+                <input asp-for="score" class="form-control" />
+                <span asp-validation-for="score" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
