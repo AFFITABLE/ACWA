@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QUIZARTZ.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QUIZARTZ.8w5f744ypf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\add.png",
+      "PackagePath": "staticwebassets\\assets\\img\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\blue-host.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blue-host.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\coming-soon.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\coming-soon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\commenter1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\commenter1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\commenter2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\commenter2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\corporate.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\corporate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\design-inspiration-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\design-inspiration-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\design-inspiration1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\design-inspiration1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\design-inspiration2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\design-inspiration2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\design-inspiration3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\design-inspiration3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\design-inspiration4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\design-inspiration4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\design-inspiration5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\design-inspiration5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\design-inspiration6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\design-inspiration6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\design-inspiration7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\design-inspiration7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\event.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\media-temple.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\media-temple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\photography.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\photography.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\resource-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\resource-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\resources-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\resources-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\restaurant.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\showcase1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\showcase1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\showcase2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\showcase2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\showcase3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\showcase3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\showcase4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\showcase4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\showcase5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\showcase5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\showcase6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\showcase6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\showcase7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\showcase7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\showcase8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\showcase8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\squarespace.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\squarespace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\store.png",
+      "PackagePath": "staticwebassets\\assets\\img\\store.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\store1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\store1.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\wordpress-hosting.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\wordpress-hosting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\img\\wp-engine.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\wp-engine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\js\\jQuery.scrollSpeed.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jQuery.scrollSpeed.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\js\\jquery-2.1.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-2.1.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\Wings.gif",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\Wings.gif"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\close.png",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\close@2x.png",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\close@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\next.png",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\next@2x.png",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\next@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\nivo-lightbox-theme.css",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\nivo-lightbox-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\nivo-lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\nivo-lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\nivo-lightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\nivo-lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\assets\\nivo-lightbox\\prev@2x.png",
+      "PackagePath": "staticwebassets\\assets\\nivo-lightbox\\prev@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hello\\source\\repos\\QUIZARTZ\\QUIZARTZ\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QUIZARTZ.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QUIZARTZ.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QUIZARTZ.props",
+      "PackagePath": "build\\QUIZARTZ.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QUIZARTZ.props",
+      "PackagePath": "buildMultiTargeting\\QUIZARTZ.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QUIZARTZ.props",
+      "PackagePath": "buildTransitive\\QUIZARTZ.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
